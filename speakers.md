@@ -2,6 +2,8 @@
 layout: default
 ---
 
+The schedule is complete and available [on the LF site](https://events.linuxfoundation.org/container-plumbing-days/program/schedule/).
+
 <!--
 Thirty two terrific speakers, experts on a variety of container technologies, are joining us for the second Container Plumbing Days!
 
@@ -44,6 +46,7 @@ Thirty two terrific speakers, experts on a variety of container technologies, ar
 Join us for the event, and meet the speakers at [their session](https://containerplumbing.org/schedule).
 -->
 
+<!--
 # Submit a Proposal
 
 ContainerPlumbing is [looking for proposals](https://events.linuxfoundation.org/container-plumbing-days/program/cfp/) around everything containers below the orchestration layer.  This includes (but is not limited to):
@@ -77,3 +80,4 @@ The conference will take place April 15th, in Seattle, WA.
 ## Submit a Proposal
 
 You can submit a proposal using the [CfP Page](https://events.linuxfoundation.org/container-plumbing-days/program/cfp).
+-->
